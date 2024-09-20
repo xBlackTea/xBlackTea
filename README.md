@@ -1,9 +1,9 @@
 ## GitHubでの活動
 
-ハッカソン作品
+2024ハッカソン作品
 [Hackathon-Project-2024](https://github.com/Hackathon-Project-2024)
 
-学内作品
+2024学内作品
 [HAL-Project-2024](https://github.com/HAL-Project-2024)
 
 ## Programming Languages
