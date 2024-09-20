@@ -1,16 +1,15 @@
-## Hi there 👋
+# こんにちは、私は[Your Name]です 👋
 
-<!--
-**xBlackTea/xBlackTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHubでの活動
+- [Hackathon-Project-2024](https://github.com/Hackathon-Project-2024)
+- [HAL-Project-2024](https://github.com/HAL-Project-2024)
 
-Here are some ideas to get you started:
+## スキル
+- 💻 プログラミング言語: JavaScript, Python, TypeScript
+- 🚀 フレームワーク: React, Vue.js, Flask
+- 🛠️ ツール: Docker, Git, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 今取り組んでいること
+- **新しいプロジェクト**に挑戦しています。詳細は以下のリンクをご覧ください。
+
+[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
