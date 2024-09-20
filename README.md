@@ -6,12 +6,12 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,c++" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,cpp" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,flask," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,vue,flask,,materialui,tailwind," /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,azure,figma,ngrok" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,npm,postman,vscode,azure,figma," /> <br /><br />
