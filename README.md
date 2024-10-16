@@ -12,7 +12,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,flask,materialui,tailwind," /> <br />
+<img src="https://skillicons.dev/icons?i=react,next,vue,laravel,flask,materialui,tailwind," /> <br />
 
 ## DB and Dev Tools etc
 
